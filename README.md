@@ -1,2 +1,4 @@
 # hello-world
-Some random changes made in a branch.
+Hello!
+
+This is just some random information to experiment with git.
